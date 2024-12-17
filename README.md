@@ -48,3 +48,4 @@ Após baixar o projeto, você pode abrir com seu editor de código preferido. Si
 ## 📚 Mais Informações do Curso
 
 Interessado em aprofundar seus conhecimentos em Next.js e SSR? [Acesse o curso]() que desenvolve este projeto desde o início!
+# nextjs-fullstack-docker
