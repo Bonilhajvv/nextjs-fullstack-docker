@@ -15,10 +15,15 @@ O projeto parte de uma base existente e é aprimorado através de técnicas de r
 
 ## Vantagens de um ORM (Prisma):
 - Abstração do Acesso ao Banco de Dados: Em vez de escrever queries SQL diretamente, o ORM fornece uma camada de abstração em JavaScript/TypeScript.
+  
 - Migrations Automatizadas: Gerenciamento de migrações de banco de dados de forma mais simples e coesa, facilitando a evolução do esquema de dados ao longo do tempo.
+  
 - Tipagem e Autocompletar: Ao usar o Prisma, é possível ter autocompletar e checagem de tipos, reduzindo erros e aumentando a produtividade.
+  
 - Portabilidade: Mudanças de bancos de dados tornam-se mais fáceis, pois o código é menos acoplado a um SQL específico.
-- Queries e Migrations com Prisma:
+
+## Queries e Migrations com Prisma:
+
 O projeto demonstra a criação e execução de migrações, além de operações CRUD, tudo gerenciado pelo Prisma. Isso torna o desenvolvimento mais ágil e seguro, reduzindo a probabilidade de erros manuais nas queries.
 
 ## Aplicação Fullstack com Next.js e Postgres:
