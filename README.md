@@ -28,3 +28,9 @@ O projeto demonstra a criação e execução de migrações, além de operaçõe
 
 ## Aplicação Fullstack com Next.js e Postgres:
 A aplicação une o poder do Next.js (renderização do lado do servidor, otimização de performance e rotas simplificadas) com um banco de dados robusto (Postgres), possibilitando construir funcionalidades complexas, persistência de dados e uma experiência completa em um só stack.
+
+## Para instalar e executar o projeto localmente, siga estes passos:
+
+1. Clone o repositório.
+2. Certifique-se de que a Extensão Está Instalada.
+Iniciar o Go Live.
